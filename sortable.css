@@ -4,7 +4,7 @@
   }
   
   .sortable tbody tr:nth-child(odd) {
-    background: #inherit;
+    background: #00ff44;
   }
   
   .sortable td,
@@ -24,7 +24,7 @@
   
   .sortable th {
     background: #transparent;
-    color: #fff;
+    color: #00ff44;
     cursor: pointer;
     font-weight: normal;
     text-align: left;
