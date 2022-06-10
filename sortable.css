@@ -4,7 +4,7 @@
   }
   
   .sortable tbody tr:nth-child(odd) {
-    background: #0033ff;
+    background: #32325d;
   }
   
   .sortable td,
@@ -23,8 +23,8 @@
   }
   
   .sortable th {
-    background: #4400ff;
-    color: #9900ff;
+    background: #344675;
+    color: #212529;
     cursor: pointer;
     font-weight: normal;
     text-align: left;
@@ -38,14 +38,14 @@
   }
   
   .sortable th:hover::after {
-    color: #ff00dd;
+    color: #344675;
     font-size: 1.2em;
     content: ' \025B8';
   }
   
   .sortable th::after {
     font-size: 1.2em;
-    color: transparent;
+    color: #transparent;
     content: ' \025B8';
   }
   
