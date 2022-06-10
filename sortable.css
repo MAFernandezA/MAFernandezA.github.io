@@ -4,7 +4,7 @@
   }
   
   .sortable tbody tr:nth-child(odd) {
-    background: #e4e4e4;
+    background: #inherit;
   }
   
   .sortable td,
@@ -23,7 +23,7 @@
   }
   
   .sortable th {
-    background: #808080;
+    background: #transparent;
     color: #fff;
     cursor: pointer;
     font-weight: normal;
@@ -38,7 +38,7 @@
   }
   
   .sortable th:hover::after {
-    color: inherit;
+    color: transparent;
     font-size: 1.2em;
     content: ' \025B8';
   }
