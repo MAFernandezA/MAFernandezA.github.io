@@ -54,7 +54,7 @@
   }
   
   .sortable th.dir-d::after {
-    color: inherit;
+    color: #00ff44;
     content: ' \025BE';
   }
   
@@ -63,6 +63,6 @@
   }
   
   .sortable th.dir-u::after {
-    color: inherit;
+    color: #00ff44;
     content: ' \025B4';
   }
