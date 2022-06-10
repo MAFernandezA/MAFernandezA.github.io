@@ -45,7 +45,7 @@
   
   .sortable th::after {
     font-size: 1.2em;
-    color: #transparent;
+    color: #32325d;
     content: ' \025B8';
   }
   
