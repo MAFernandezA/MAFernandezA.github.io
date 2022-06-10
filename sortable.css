@@ -4,7 +4,7 @@
   }
   
   .sortable tbody tr:nth-child(odd) {
-    background: #transparent;
+    background: #0033ff;
   }
   
   .sortable td,
@@ -23,8 +23,8 @@
   }
   
   .sortable th {
-    background: #transparent;
-    color: #transparent;
+    background: #4400ff;
+    color: #9900ff;
     cursor: pointer;
     font-weight: normal;
     text-align: left;
@@ -38,7 +38,7 @@
   }
   
   .sortable th:hover::after {
-    color: transparent;
+    color: #ff00dd;
     font-size: 1.2em;
     content: ' \025B8';
   }
@@ -54,7 +54,7 @@
   }
   
   .sortable th.dir-d::after {
-    color: #transparent;
+    color: ##629679;
     content: ' \025BE';
   }
   
@@ -63,6 +63,6 @@
   }
   
   .sortable th.dir-u::after {
-    color: #transparent;
+    color: #969662;
     content: ' \025B4';
   }
